@@ -2,15 +2,32 @@
 
 Owned by: Denise Angel S. Bumalay (Diane)
 
-Hello! Welcome to my website. 
+[Polaroid Love](<iframe width="560" height="315" src="https://www.youtube.com/embed/QZqD_Fme6xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+
+Hello! Welcome to my website. This website contains some things about me, weekend routine and a playlist of a songs that I usually listen to. Enjoy scrolling! 💗
 
 ![image](https://user-images.githubusercontent.com/97162233/161942209-0da4ddb1-c7e2-402c-b4b3-a89182903d9f.png)
 
 
 
-### Markdown
+### What about Her?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is Denise Angel S. Bumalay. People call me "Diane" or "Denise". I was born in October 30,2007. My hobbies are reading alternative universes, watching K-POP contents and listening to music. Some of my favorite foods are Pinakbet, Mojos, Ice cream and Buttered corn with cheese powder. 
+
+![image](https://user-images.githubusercontent.com/97162233/161953823-140ae779-101d-4665-9b9e-9373d9780085.png)
+
+Check out my favorite artist! 
+
+**ENHYPEN**
+![image](https://user-images.githubusercontent.com/97162233/161955321-cd68fd32-3160-49a6-b500-762a8c3f715e.png)
+
+Here's a spotify playlist that you can listen to
+
+**Study Playlist**
+(https://open.spotify.com/playlist/1KhCwVUpjOWVJocCioCQDs?si=a9082956611d4697)
+
+
+
 
 ```markdown
 Syntax highlighted code block
