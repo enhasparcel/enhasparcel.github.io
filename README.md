@@ -2,7 +2,6 @@
 
 Owned by: Denise Angel S. Bumalay (Diane)
 
-[Polaroid Love](<iframe width="560" height="315" src="https://www.youtube.com/embed/QZqD_Fme6xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 Hello! Welcome to my website. This website contains some things about me, weekend routine and a playlist of a songs that I usually listen to. Enjoy scrolling! 💗
 
@@ -23,7 +22,7 @@ Check out my favorite artist!
 
 Here's a spotify playlist that you can listen to
 
-**Study Playlist**
+**[Study Playlist]**
 (https://open.spotify.com/playlist/1KhCwVUpjOWVJocCioCQDs?si=a9082956611d4697)
 
 
