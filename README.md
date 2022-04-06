@@ -2,8 +2,9 @@
 
 Owned by: Denise Angel S. Bumalay (Diane)
 
+Hello! Welcome to my website. 
 
-
+![image](https://user-images.githubusercontent.com/97162233/161942209-0da4ddb1-c7e2-402c-b4b3-a89182903d9f.png)
 
 
 
