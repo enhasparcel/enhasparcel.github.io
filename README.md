@@ -23,7 +23,6 @@ Check out my favorite artist!
 Here's a spotify playlist that you can listen to
 
 **[Study Playlist]**
-(https://open.spotify.com/playlist/1KhCwVUpjOWVJocCioCQDs?si=a9082956611d4697)
 
 
 
