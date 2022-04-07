@@ -12,14 +12,17 @@ Hello! Welcome to my website. This website contains some things about me, weeken
 
 ### What about Her?
 
-My name is Denise Angel S. Bumalay. People call me "Diane" or "Denise". I was born in October 30,2007. My hobbies are reading alternative universes, watching K-POP contents and listening to music. Some of my favorite foods are Pinakbet, Mojos, Ice cream and Buttered corn with cheese powder. 
+My name is Denise Angel S. Bumalay. People call me "Diane" or "Denise". I was born in October 30,2007. My hobbies are reading alternative universes, watching K-POP contents and listening to music. Some of my favorite foods are Pinakbet, Mojos, Ice cream and Buttered corn with cheese powder.
+
+![image](https://user-images.githubusercontent.com/97162233/162124853-ca0e00df-7807-4ec7-9880-8bc29eeab23e.png)
+
 
 Check out my favorite artist! 
 
 **ENHYPEN**
 ![image](https://user-images.githubusercontent.com/97162233/161955321-cd68fd32-3160-49a6-b500-762a8c3f715e.png)
 
-Here's a spotify playlist that you can listen to
+Here are spotify playlists that you can listen to
 
 **Study Playlist**
 
@@ -27,34 +30,12 @@ Here's a spotify playlist that you can listen to
 
 **Chill Playlist**
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6sjZDv8piNlYFynbjp4lNu?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 
+Sunday|Monday|Tuesday|Wednesday|Thursday|Friday
+9:00|
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enhasparcel/enhasparcel.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
